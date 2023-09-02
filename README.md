@@ -1,4 +1,4 @@
-![MasterHead](https://t3.ftcdn.net/jpg/02/68/48/86/240_F_268488616_wcoB2JnGbOD2u3bpn2GPmu0KJQ4Ah66T.jpg)]
+![MasterHead(https://t3.ftcdn.net/jpg/02/68/48/86/240_F_268488616_wcoB2JnGbOD2u3bpn2GPmu0KJQ4Ah66T.jpg)]
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
 <h3 align="center">A passionate second-year student with a strong interest in machine learning and data science and Web Development</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
