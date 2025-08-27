@@ -1,6 +1,8 @@
 ![MasterHead](https://t3.ftcdn.net/jpg/02/68/48/86/240_F_268488616_wcoB2JnGbOD2u3bpn2GPmu0KJQ4Ah66T.jpg)
 <h1 align="center">Hi 👋, I'm Nikhil Sharma</h1>
-<h3 align="center">A passionate second-year student with a strong interest in Machine Learning, Data Science and Web Development</h3>
+<h3 align="center">I'm a Computer Science student with a strong interest in cloud, DevOps, and AI. I've built practical projects using Python, SQL,
+and machine learning, and deployed them using tools like AWS, Terraform, and Docker. I'm a quick learner, enjoy working with
+teams, and always open to learning new skills to grow and contribute better.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/YZPnGuPeZv8AAAAd/coding.gif">
 
 
